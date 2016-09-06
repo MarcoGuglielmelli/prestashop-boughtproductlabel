@@ -62,8 +62,7 @@
 			</p>
 		{/if}
 
-		<!-- boughtproductlabel -->
-		
+		<!-- boughtproductlabel -->	
 		{if isset($bought_on)}
 		    <div class="col-xs-12">
 		        <div class="bought_on alert alert-info">
@@ -71,7 +70,6 @@
 		        </div>    
 		    </div>
 		{/if}
-
 		<!-- end boughtproductlabel -->
 
 		<!-- left infos-->

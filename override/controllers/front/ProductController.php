@@ -1,3 +1,5 @@
+<?php
+
 Class ProductController extends ProductControllerCore
 {
     public function initContent()
